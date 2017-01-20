@@ -1,10 +1,10 @@
-<link rel="stylesheet" type="text/css" href="readme/readme.css">
+<link rel="stylesheet" type="text/css" href="readme/css/readme.css">
 <h2>
     <font color="#c9040a"> Senver </font>
 </h2>
 <p align="justify">A basic realtime messaging system</p>
 
-<div style="background:#ff814c; width: 100%;">
+<div class="bg-img">
 	<img width="" height="" title="tituloDaImagem" alt="tituloDaImagem"
-         src="readme/gif-icons-menu-transition-animations-send-mail.gif"/>
+         src="readme/img/gif-icons-menu-transition-animations-send-mail.gif"/>
 </div>
