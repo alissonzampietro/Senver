@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="readme/readme.css">
 <h2>
     <font color="#c9040a"> Senver </font>
 </h2>
