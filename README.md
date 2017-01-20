@@ -17,7 +17,7 @@
     <font color="#c9040a"> Steps </font>
 </h2>
 
-- [ ] Create a README
+- [x] Create a README
 - [ ] Define architecture	
 - [ ] Choose fullstack, microframework or native language
 - [ ] Define features
